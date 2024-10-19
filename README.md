@@ -23,6 +23,8 @@ In executing the project, I utilized Power BI, Excel, and SQL to conduct a compr
        Expiration_Date <= GETDATE();
 - Results
 
+![Sql exp products](https://github.com/user-attachments/assets/50ae34a9-ff8d-4f57-b73d-5554a6a83bad)
+- A preview of the Power BI dashboard is available below:
 
 
 
